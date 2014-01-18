@@ -4,7 +4,14 @@ Hi this is mani.
 Git is a git :)
 =======
 Hi this is mani.casfcasdfasd
+<<<<<<< HEAD
+<<<<<<< HEAD
+(just another change)
+=======
+>>>>>>> 6ecfe8dfc9de933177f1d4e91a87935c3115ef91
+=======
 >>>>>>> a258b74a3fb1dc6ac3d7c2f3ddb14fa5414f4b8f
 =======
 Hi this is mani.casfcasdfasd
 >>>>>>> a258b74a3fb1dc6ac3d7c2f3ddb14fa5414f4b8f
+>>>>>>> 25ed891da13c6f9d5a7e678ea0701a0e2140eb45
