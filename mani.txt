@@ -1,2 +1,5 @@
 Hi this is mani.casfcasdfasd
+<<<<<<< HEAD
 (just another change)
+=======
+>>>>>>> 6ecfe8dfc9de933177f1d4e91a87935c3115ef91
