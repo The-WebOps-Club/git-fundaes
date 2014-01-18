@@ -1,8 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi this is mani.
 Git is a git :)
 =======
+=======
+Hi this is mani.
+Git is a git :)
+Hi this is mani.casfcasdfasd
+(just another change)
+>>>>>>> 1df7f4159000272cc92806f9aa093e84cdd27cbc
 Hi this is mani.casfcasdfasd
 >>>>>>> a258b74a3fb1dc6ac3d7c2f3ddb14fa5414f4b8f
 =======
